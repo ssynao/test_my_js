@@ -1,0 +1,9 @@
+<html>
+  <head></head>
+  <body>
+    <script>
+      document.write("Это JavaScript");
+    </script>
+    <hr>
+  </body>
+</html>
