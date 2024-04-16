@@ -3,8 +3,8 @@
 <head></head>
   <body>
     <script>
+alert ("Hello!)
   document.write("Это JavaScript!");
     </script>
-<hr>
   </body>
 </html>
